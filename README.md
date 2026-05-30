@@ -4,11 +4,6 @@
 
 **Eric Ren · ERI Labs · Jersey City, New Jersey · May 2026 · [github.com/ericrenone](https://github.com/ericrenone)**
 
-[![ERIE-SCHOOL](https://img.shields.io/badge/ERIE--SCHOOL-living%20document-blue)](https://github.com/ericrenone)
-[![Series](https://img.shields.io/badge/INDIFFERENCE%20SIGNAL-Vol.%203-orange)](https://github.com/ericrenone)
-[![SOTA](https://img.shields.io/badge/citations-peer--reviewed%20SOTA-green)](https://github.com/ericrenone)
-
----
 
 > *"With higher incentive intensity, subjects exert less cognitive effort on complex tasks rather than more. The performance-incentive function is not monotone."*
 > — Ariely, D., Gneezy, U., Loewenstein, G., & Mazar, N. (2009). *Review of Economic Studies, 76*(2), 451–469.
